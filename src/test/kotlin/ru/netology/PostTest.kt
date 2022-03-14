@@ -22,7 +22,7 @@ class WallServiceTest {
         service.add(Post(1, 10, 2, 3, 181221, "balbla1", 4, 3, true))
 
 
-        val update = Post(0, 3, 6, 4, 171221, "kulibyaka", 5, 7, false)
+        val update = Post(1, 3, 6, 4, 171221, "kulibyaka", 5, 7, false)
 
 
 
